@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @eraldobushpepa
 - 👀 I’m interested in f1, building projects that won't survive
 - 🌱 I’m currently learning python+sql
-- 📫 How to reach me [...](https://www.linkedin.com/in/eraldo-bushpepa/)
+- 📫  [How to reach me](https://www.linkedin.com/in/eraldo-bushpepa/)
 - ⚡ Fun fact: i have an alter ego
 
 <!---
