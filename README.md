@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @eraldobushpepa
-- 👀 I’m interested in f1, building projects that won't survive
+- 👀 I’m interested in f1, building projects that won't survive and i watch some [tv show and movies](https://trakt.tv/users/eraldo-bushpepa/)
 - 🌱 I’m currently learning python+sql
 - 📫  [How to reach me](https://www.linkedin.com/in/eraldo-bushpepa/)
 - ⚡ Fun fact: i have an alter ego
